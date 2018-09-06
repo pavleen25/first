@@ -1,2 +1,10 @@
-Google Cloud Client Libraries are our latest and recommended client libraries for calling Google Cloud APIs. They provide an optimized developer experience by using each supported language's natural conventions and styles. They also reduce the boilerplate code you have to write because they're designed to enable you to work with service metaphors in mind, rather than implementation details or service API concepts.
+Google Cloud Client Libraries are our latest and recommended client libraries for calling Google Cloud APIs. They provide an optimized developer experience 
+by using each supported language's natural conventions and styles. They also reduce the boilerplate code you have to write because they're designed to enable you
+ to work with service metaphors in mind, rather than implementation details or service API concepts.
 You can find out more about client libraries for Cloud APIs in Client Libraries Explained.
+
+
+HTTP Guidelines
+This document describes how Google APIs work with different HTTP versions and implementations. 
+If you're using one of our generated or hand-crafted client libraries (our recommended approach for most use cases), you don't need to worry about this,
+ as the provided code deals with the low-level issues of communicating with the server.
