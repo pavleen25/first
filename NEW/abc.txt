@@ -1,0 +1,3 @@
+Branch operation allows creating another line of development. We can use this operation to fork off the development process into two different directions. 
+For example, we released a product for 6.0 version and we might want to create a branch so that the development 
+of 7.0 features can be kept separate from 6.0 bug fixes.
