@@ -8,3 +8,8 @@ HTTP Guidelines
 This document describes how Google APIs work with different HTTP versions and implementations. 
 If you're using one of our generated or hand-crafted client libraries (our recommended approach for most use cases), you don't need to worry about this,
  as the provided code deals with the low-level issues of communicating with the server.
+
+HTTP Guidelines
+This document describes how Google APIs work with different HTTP versions and implementations. 
+If you're using one of our generated or hand-crafted client libraries (our recommended approach for most use cases), you don't need to worry about this,
+ as the provided code deals with the low-level issues of communicating with the server.
